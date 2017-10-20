@@ -3,3 +3,10 @@ Angie
 100 Push-ups
 100 Sit-ups
 100 Squats
+
+Barbara
+20 pull-ups
+30 push-ups
+40 sit-ups
+50 squats
+Rest 3 mins
